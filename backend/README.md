@@ -8,6 +8,9 @@ To start the app use: `./start.sh` from the backend directory.
 
 Make sure your DB is up and running.
 
+To verify run the following command:
+`curl 'localhost:3000/api/ping'`
+
 ## Dependencies
 
 - [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - For generating JWTs used by authentication
