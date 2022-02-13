@@ -9,6 +9,8 @@ The Anythink Market backend is Node web app written with [Express](https://expre
     
     `export MONGODB_URI=mongodb://localhost:27017`
     
+- Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
+
 - Node version - Make sure you use lts versions (e.g v16.14.0), you can manage the node version easily using [nvm](https://github.com/nvm-sh/nvm) 
     execute the following commands:
     `nvm install 16.14.0` - Install the desired version
