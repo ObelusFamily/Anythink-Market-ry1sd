@@ -8,6 +8,8 @@ To start the app use: `./start.sh` from the frontend directory.
 
 Make sure your server is up and running to serve requests.
 
+To verify: visit the following url - localhost:3001
+
 ## Pages overview
 
 - Home page (URL: /#/ )
