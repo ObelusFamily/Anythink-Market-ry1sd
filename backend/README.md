@@ -6,6 +6,7 @@ The Anythink Market backend is Node web app written with [Express](https://expre
 
 - [mongodb](https://docs.mongodb.com/manual/administration/install-community/) - Install MongoDB (Link includes installing + starting MongoDB locally)
 -  Configure Mongo connection URI - add the following command to your .zshenv or .bash_profile:
+    
     `# Setting MongoDB URI
     export MONGODB_URI=mongodb://localhost:27017`
 
